@@ -49,3 +49,27 @@ Lessons Learned
 
 Next Phase
 ➡️ Phase 2 – Python Foundation
+
+_________________________________________________________________
+
+## Phase 2 — Python Fundamentals
+
+Status: 🟡 In Progress
+
+Completed
+
+- Variables
+- Input
+- Output
+- Data Types
+- Arithmetic
+- Comparisons
+- Boolean
+- if
+- else
+
+Next
+
+- Logical Operators
+- elif
+- Nested if
